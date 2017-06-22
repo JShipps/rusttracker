@@ -1,5 +1,5 @@
-__#Rust Tracker__
+__ # Rust Tracker __
 ## Rust Stat Tracking Interface
 ###### Statistical RUST tracking information
 
-__#COMING SOON__
+__ # COMING SOON __
