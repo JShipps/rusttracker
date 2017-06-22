@@ -1,5 +1,5 @@
- ____  __  __  ___  ____ 
-(  _ \(  )(  )/ __)(_  _)
- )   / )(__)( \__ \  )(  
-(_)\_)(______)(___/ (__) 
-# rusttracker
+__#Rust Tracker__
+## Rust Stat Tracking Interface
+###### Statistical RUST tracking information
+
+__#COMING SOON__
